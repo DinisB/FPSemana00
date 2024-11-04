@@ -6,8 +6,7 @@ room_desc = [
 [ "U", "V", "X", "Y", "Z" ],
 ]
 
-room_exits = [(False, False, True, False),
- (False, True, False, False), (False, True, True, True), (False, True, True, True), (False, False, True, True) ],
+room_exits = [(False, False, True, False), (False, True, False, False), (False, True, True, True), (False, True, True, True), (False, False, True, True) ],
 [(True, False, True, False), (False, True, True, False), (True, True, True, True), (True, False, False, True), (True, False, True, False) ] ,
 [(True, False, True, False), (True, False, False, False), (True, False, True, False), (False, True, False, False), (True, False, True, True) ] ,
 [(True, False, True, False), (False, True, True, False), (True, True, False, True), (False, True, False, True), (True, False, True, False) ],
